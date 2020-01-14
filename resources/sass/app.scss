@@ -1,0 +1,28 @@
+header {
+    padding: 1rem;
+    background-color: #000;
+    img {
+        width: 3rem;
+    }
+}
+body {
+    background-color: rgb(19, 26, 32) !important;
+}
+.cd {
+    margin-top: 1rem;
+    .box {
+        padding: 1.3rem;
+        background-color: #000;
+        margin: 1rem;
+        min-height: 100%;
+    }
+    img {
+        max-width: 80%;
+        max-height: 20rem;
+    }
+}
+
+.pads {
+    padding: 3rem;
+    margin: 3rem;
+}
